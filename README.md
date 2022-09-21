@@ -1,7 +1,7 @@
  ## Olá, meu nome é Heitor
 - Estudante de desenvolvimento web da <em><b>Trybe</b></em>
 - ❤ JavaScript ❤
-- 🌱 Atualmente estudando Typescript
+- 🌱 Atualmente estudando módulo de BackEnd na Trybe.
 - 📫 <a href='https://www.linkedin.com/in/heitor-candido/'><b>Meu linkedin╰(*°▽°*)╯</b></a>
 <div> 
   <img src='https://github-readme-stats.vercel.app/api?username=hektho&count_private=truea&show_icons=true&theme=merko' width='500px'/>
